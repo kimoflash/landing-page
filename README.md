@@ -12,3 +12,5 @@ These are the lessons applied here so far:
 
 # Image Credits
 *header logo by <a href="https://pixabay.com/users/gdakaska-1113303/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1711786">Kate</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1711786">Pixabay</a>
+
+*hero image by <a href="https://pixabay.com/users/tawnynina-1041483/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=775028">Tawny Nina Botha</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=775028">Pixabay</a>
