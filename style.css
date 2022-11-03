@@ -7,3 +7,19 @@ body {
     display: flex;
 }
 
+.hero {
+    display: flex;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 100px;
+}
+
+.hero-image {
+    width: 400px;
+}
