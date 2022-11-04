@@ -1,7 +1,6 @@
 
 body {
     height: 100vh;
-    margin: 0 10%;
     overflow: hidden;
     font-family: Roboto, sans-serif;
     display: flex;
@@ -12,10 +11,55 @@ body {
     background-color: #1F2937;
 }
 
+.brand {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.main-text {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.secondary-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 .logo {
     width: 100px;
 }
 
 .hero-image {
     width: 400px;
+}
+
+.button {
+    color: white;
+    background-color: #3882f6;
+    border-radius: 4px;
+    box-shadow: none;
+    padding: 8px 20px;
+    border: none;
+    transition-duration: 0.4s;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.button:hover {
+    background-color: #c9d0de;
+    color: gray;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: #E5E7EB;
+    font-size: 18px;
 }
