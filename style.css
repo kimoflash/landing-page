@@ -1,7 +1,7 @@
 
 body {
     height: 100vh;
-    overflow: hidden;
+    overflow: scroll;
     font-family: Roboto, sans-serif;
     display: flex;
     flex-direction: column;
@@ -12,6 +12,7 @@ body {
     padding: 0 10%;
     display: flex;
     flex-direction: column;
+    gap: 70px;
 }
 
 .header {
@@ -48,6 +49,20 @@ a {
     font-size: 18px;
 }
 
+.hero-body {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 120px;
+}
+
+.hero-content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 600px;
+}
+
 .main-text {
     font-size: 48px;
     font-weight: bolder;
@@ -64,7 +79,7 @@ a {
 }
 
 .hero-image {
-    width: 400px;
+    max-width: 600px;
 }
 
 .button {
@@ -80,6 +95,6 @@ a {
 }
 
 .button:hover {
-    background-color: #c9d0de;
-    color: gray;
+    background-color: #ad4b95;
+    color: rgb(255, 238, 238);
 }
