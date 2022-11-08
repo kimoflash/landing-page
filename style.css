@@ -136,3 +136,37 @@ a {
 .info-text {
     text-align: center;
 }
+
+.on-hover {
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.image-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    transition: .5s ease;
+    background-color: #ad4b95;
+    border-radius: 20px;
+}
+
+.on-hover:hover .image-overlay {
+    opacity: 1;
+}
+
+.text {
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+  }
