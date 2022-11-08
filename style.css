@@ -202,3 +202,27 @@ a {
     padding-right: 50px;
     margin-bottom: 100px;
 }
+
+.action-space {
+    background-color: #3882f6;
+    margin: 100px 10%;
+    border-radius: 10px;
+    padding: 50px 10%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.action-title {
+    font-size: 18px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.action-text {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+#call {
+    border: 2px solid #E5E7EB;
+}
