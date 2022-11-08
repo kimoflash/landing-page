@@ -17,7 +17,7 @@ These are the lessons applied here so far:
 
 *content Photo by Elina Fairytale: https://www.pexels.com/photo/happy-people-standing-at-a-garden-4834151/
 
-*content Photo by Dids: https://www.pexels.com/photo/unbloomed-white-flower-bud-placed-on-opened-book-1322466/
+*content Photo by Karolina Grabowska: https://www.pexels.com/photo/opened-notebook-with-silver-pen-near-magnolia-4210787/
 
 *content Photo by cottonbro studio: https://www.pexels.com/photo/man-in-black-jacket-sitting-on-brown-wooden-chair-4098221/
 

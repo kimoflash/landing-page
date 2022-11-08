@@ -98,3 +98,10 @@ a {
     background-color: #ad4b95;
     color: rgb(255, 238, 238);
 }
+
+.info-photo {
+    border-radius: 8px;
+    border: 1px #3882f6;
+    padding: 5px;
+    width: 150px;
+}
