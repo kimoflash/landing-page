@@ -226,3 +226,11 @@ a {
 #call {
     border: 2px solid #E5E7EB;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #F9FAF8;
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
