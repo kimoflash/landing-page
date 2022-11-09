@@ -68,11 +68,14 @@ a {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+    margin-bottom: 15px;
 }
 
 .secondary-text {
     font-size: 18px;
     color: #E5E7EB;
+    margin-top: 0;
+    margin-bottom: 30px;
 }
 
 .logo {
