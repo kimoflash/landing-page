@@ -165,11 +165,13 @@ a {
     opacity: 0;
     transition: .5s ease;
     background-color: #ad4b95;
-    border-radius: 20px;
+    border-radius: 16px;
+    height: 225px;
+    margin-top: 5px;
 }
 
 .on-hover:hover .image-overlay {
-    opacity: 1;
+    opacity: 0.85;
 }
 
 .text {
