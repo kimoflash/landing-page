@@ -54,6 +54,7 @@ a {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 120px;
+    gap: 20px;
 }
 
 .hero-content {
@@ -80,6 +81,8 @@ a {
 
 .hero-image {
     max-width: 600px;
+    min-width: 300px;
+    flex: 0 1 auto;
 }
 
 .button {
