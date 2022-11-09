@@ -49,6 +49,10 @@ a {
     font-size: 18px;
 }
 
+a:hover {
+    color: #ad4b95;
+}
+
 .hero-body {
     display: flex;
     justify-content: space-between;
